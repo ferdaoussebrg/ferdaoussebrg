@@ -26,4 +26,4 @@ I thrive at the intersection of **technology, problem-solving, and creativity**.
 
 ### 📫 Let's Connect!
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdaoussebrg/)  [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdaoussebourzgui@gmail.com)  [![PORTFOLIO](https://img.shields.io/badge/Portfolio-282A2E?style=for-the-badge&logoColor=FF8800)](https://portfolio-bice-seven-47.vercel.app/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdaousse-bourzgui-127752278/)  [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdaoussebourzgui@gmail.com)  [![PORTFOLIO](https://img.shields.io/badge/Portfolio-282A2E?style=for-the-badge&logoColor=FF8800)](https://portfolio-bice-seven-47.vercel.app/)
